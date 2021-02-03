@@ -7,6 +7,9 @@ public class Main {
 		System.out.println("Hello Hotfix!");
 		System.out.println("Hello Master!");
 		System.out.println("Hello hotfix2");
+		
+		System.out.println("달려라 마스ㅌㅓ!");
+		System.out.println("마이웨이");
 	}
 
 }
